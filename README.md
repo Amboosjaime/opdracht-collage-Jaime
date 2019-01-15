@@ -5,3 +5,7 @@ Hallo mijn naam is Jaime.
 Ik ben 31 jaar.
 
 Ik ben geboren op 7 Oktober 1987.
+
+hi
+ha
+ho
